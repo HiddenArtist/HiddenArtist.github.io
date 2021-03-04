@@ -31,6 +31,7 @@
   },
   "dependencies": {
     "@babel/polyfill": "^7.6.0",
-    "jayesstee": "*"
+    "jayesstee": "*",
+    "navigo": "^8.9.1"
   }
 }
