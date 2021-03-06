@@ -15,7 +15,7 @@ place to discuss the problem and find a workaround.
 ## Getting Help
 
 If you are trying to do something that you believe is possible but you can't find out how to do it, the
-best place to start is to watch the [Tutorials](/tutorials) or check out the [Frequently Asked Questions](/faq).
+best place to start is to watch the [Tutorials](#/tutorials) or check out the [Frequently Asked Questions](#/faq).
 If you still don't know the answer, you can [post a question here](https://apple.stackexchange.com/).
 
 `
