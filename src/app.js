@@ -5,6 +5,7 @@ import {Support}               from "./support";
 import {About}                 from "./about";
 import {Home}                  from "./home";
 import {FAQ}                   from "./faq";
+import {Tutorials}             from "./tutorials";
 
 const DEBUG_MODE = false;
 

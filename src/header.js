@@ -64,11 +64,11 @@ export class Header extends jst.Component {
       ),
       jst.$div({cn: '-name'}, "Hidden Artist"),
       jst.$div({cn: '-navBox'},
-        jst.$div({cn: '-navItem', events: {click: e => this.navigate('home')}},    "Home"),
-        jst.$div({cn: '-navItem', events: {click: e => this.navigate('support')}}, "Tutorials"),
-        jst.$div({cn: '-navItem', events: {click: e => this.navigate('support')}}, "Support"),
-        jst.$div({cn: '-navItem', events: {click: e => this.navigate('faq')}},     "FAQ"),
-        jst.$div({cn: '-navItem', events: {click: e => this.navigate('about')}},   "About"),
+        jst.$div({cn: '-navItem', events: {click: e => this.navigate('home')}},      "Home"),
+        jst.$div({cn: '-navItem', events: {click: e => this.navigate('tutorials')}}, "Tutorials"),
+        jst.$div({cn: '-navItem', events: {click: e => this.navigate('support')}},   "Support"),
+        jst.$div({cn: '-navItem', events: {click: e => this.navigate('faq')}},       "FAQ"),
+        jst.$div({cn: '-navItem', events: {click: e => this.navigate('about')}},     "About"),
       )
     );
   }

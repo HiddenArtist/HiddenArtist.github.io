@@ -3,6 +3,7 @@ import {Page}       from "./page.js";
 
 const page = `
 # Welcome to Hidden Artist
+
 ![Painted in Hidden Artist](/img/example1.jpg)
 
 ## What is this thing and why would I use it?
