@@ -33,8 +33,13 @@ module.exports = {
     port: 8082, // Defaults to 8080
     open: false, // Open the page in browser
     overlay: true,
+    historyApiFallback:  {
+      rewrites: [
+        { from: /^\/$/, to: '/home' }
+      ],
+    },
   },
-  devtool: 'inline-source-map',
+  //devtool: 'inline-source-map',
   module: {
     rules: [
       {
