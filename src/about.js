@@ -6,7 +6,7 @@ const page = `
 # About Hidden Artist
 **Hidden Artist** is the first mobile app published by me, a single developer in Ottawa, Canada. 
 
-![Ottawa Parliament Buildings - Half Painted](/Ottawa_Parliament.jpg)
+![Ottawa Parliament Buildings - Half Painted](/img/Ottawa_Parliament.jpg)
 
 I have played around with the concept for years and greatly enjoyed painting pictures with it. During the pandemic 
 I finally had time to push it through all the hoops to actually get it published.

@@ -33,6 +33,7 @@ module.exports = {
     port: 8082, // Defaults to 8080
     open: false, // Open the page in browser
     overlay: true,
+    contentBase: path.join(__dirname, 'docs'),    
     historyApiFallback:  {
       rewrites: [
         { from: /^\/$/, to: '/home' }
