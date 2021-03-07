@@ -19,7 +19,7 @@ export class MainApp extends jst.Component {
 
     this.currPage           = undefined;
 
-    this.router             = new Navigo("/");
+    this.router             = new Navigo("/", {hash: true});
 
     this.header             = new Header(this, this.width, this.height);
 
