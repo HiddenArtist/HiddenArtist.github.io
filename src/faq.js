@@ -4,6 +4,12 @@ import {Page}       from "./page.js";
 const page = `
 # Frequently Asked Questions
 
+## Q: What is your privacy policy?
+We collect no data and never transmit any images or other information outside of your device,
+with the exception of images that you choose to share with the Share menu. The sharing
+of images is completely in the control of the operating system of your device. For more
+on our privacy policy, see **Privacy Policy** on the [support page](/#/support).
+
 ## Q: How can I share a painting?
 If you are in the gallery, first tap the painting you wish to share. Then tap on the menu
 icon in the top right-hand corner (the three lines). This lets you share the painting image
