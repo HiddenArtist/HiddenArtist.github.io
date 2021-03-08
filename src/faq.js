@@ -16,6 +16,18 @@ icon in the top right-hand corner (the three lines). This lets you share the pai
 or share the 'hart' file. The 'hart' file is all information associated with the painting, which
 let's you or someone else continue to paint that painting on a different device.
 
+## Q: What is a 'hart' file and why do I care?
+A 'hart' (Hidden ART) file, is a file that contains all information about your painting. It allows
+you to move a painting in progress from one device to another - or one person to another. Early 
+versions of Hidden Artist would share a file with the extension '.hart'. This has been changed to
+share a '.svg' file with the painting information embedded within it. Sharing an SVG image file
+works a bit better in Apple's ecosystem.
+
+## Q: Why do I get an '.svg' file when sharing a 'hart' file?
+SVG image files are used to carry the Hidden Artist painting data when sharing between devices
+or friends. By using SVGs, email readers and file browsers can show some information about the
+embedded painting in its image and it can be shared easier than a file with a custom extension.
+
 ## Q: Why to I get a Hidden Artist watermark in my shared paintings? Can I remove it?
 That watermark is added to shared images if you are using the free version. After you
 upgrade to the Pro version of Hidden Artist it will no longer be added to shared paintings.

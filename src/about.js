@@ -11,7 +11,7 @@ const page = `
 I have played around with the concept for years and greatly enjoyed painting pictures with it. During the pandemic 
 I finally had time to push it through all the hoops to actually get it published.
 
-All feedback is very welcome. There are three ways (at the moment) for providing feedback:
+All feedback is very welcome. There are a few ways for providing feedback:
 1. Add a comment and rating on the app store
 2. Add a comment to one of the [YouTube Tutorials](https://www.youtube.com/playlist?list=PLAArMTrI4jpC3bz9N5SRKxUt22vfg3kB-)
 3. Go to the [support page](#/support) and raise an issue or feature request
