@@ -28,8 +28,9 @@ found some benefit. All I can say is that I enjoy it a lot.
 
 ## How do I get Hidden Artist
 
-Currently Hidden Artist is only available for iPhone and iPad devices. [Let me know](#/support) if you would
-like to see it on other platforms.
+Currently Hidden Artist is only available for iPhone and iPad devices. You can find it in the [Apple App Store](https://apps.apple.com/us/app/hidden-artist/id1547335559#).
+
+[Let me know](#/support) if you would like to see it on other platforms.
 
 
 
