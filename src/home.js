@@ -33,9 +33,9 @@ Currently Hidden Artist is only available for iPhone and iPad devices. You can f
 [Let me know](#/support) if you would like to see it on other platforms.
 
 
+## Join us 
 
-
-
+If you want to get updates or make comments about the app, please join us on [Reddit](https://www.reddit.com/r/HiddenArtistApp/) or [@HiddenArtistApp](https://twitter.com/HiddenArtistApp).
 
 
 

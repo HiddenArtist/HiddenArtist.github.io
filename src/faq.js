@@ -14,7 +14,7 @@ on our privacy policy, see **Privacy Policy** on the [support page](/#/support).
 If you are in the gallery, first tap the painting you wish to share. Then tap on the menu
 icon in the top right-hand corner (the three lines). This lets you share the painting image
 or share the 'hart' file. The 'hart' file is all information associated with the painting, which
-let's you or someone else continue to paint that painting on a different device.
+lets you or someone else continue to paint that painting on a different device.
 
 ## Q: What is a 'hart' file and why do I care?
 A 'hart' (Hidden ART) file, is a file that contains all information about your painting. It allows
