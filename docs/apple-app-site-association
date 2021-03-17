@@ -4,7 +4,7 @@
     "details": [
       {
         "appID": "DPFKENETL9.com.hiddenartist.app",
-        "paths": ["/hart", "/#/hart"]
+        "paths": ["*", "/"]
       }
     ]
   }
