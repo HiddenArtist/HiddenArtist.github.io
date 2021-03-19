@@ -16,6 +16,9 @@ In some ways it is the simplest painting app out there, but there is hidden comp
 skill needed to achieve paintings of high quality. How you paint will let you vary your painting
 from highly photo-realistic to a rougher more typical oil painting.
 
+Make sure you try the puzzle photos or add a new photo with no outline hints. Painting a picture
+with no help is where the app really shines.
+
 ## Mental Health Benefits of Art and Coloring
 
 [Numerous](https://www.beaumont.org/health-wellness/blogs/health-benefits-of-coloring-for-adults) 
