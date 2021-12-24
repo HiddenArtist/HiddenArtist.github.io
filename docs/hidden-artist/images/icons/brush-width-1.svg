@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16.782684mm"
+   height="106.0071mm"
+   viewBox="0 0 16.782684 106.00708"
+   version="1.1"
+   id="svg8"
+   inkscape:version="0.92.5 (2060ec1f9f, 2020-04-08)"
+   sodipodi:docname="brush-width-1.svg">
+  <defs
+     id="defs2">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient897">
+      <stop
+         style="stop-color:#808080;stop-opacity:1;"
+         offset="0"
+         id="stop893" />
+      <stop
+         style="stop-color:#f2f2f2;stop-opacity:1"
+         offset="1"
+         id="stop895" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient821">
+      <stop
+         style="stop-color:#502d16;stop-opacity:1"
+         offset="0"
+         id="stop817" />
+      <stop
+         style="stop-color:#decd87;stop-opacity:1"
+         offset="1"
+         id="stop819" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient821"
+       id="linearGradient823"
+       x1="74.839287"
+       y1="43.377975"
+       x2="113.77084"
+       y2="43.377975"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39052113,0,0,1,68.810186,-12.056628)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient897"
+       id="linearGradient899"
+       x1="70.833138"
+       y1="49.407112"
+       x2="113.80824"
+       y2="49.407112"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.39052113,0,0,1,69.363715,0)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="-147.47133"
+     inkscape:cy="285.47601"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1137"
+     inkscape:window-x="127"
+     inkscape:window-y="1496"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-97.025551,-19.226112)">
+    <path
+       style="fill:#1a1a1a;fill-opacity:1;stroke:none;stroke-width:0.2497326;stroke-miterlimit:4;stroke-dasharray:none"
+       clip-path="none"
+       d="m 97.047652,55.189764 c 0.08186,19.856484 1.092422,29.792939 2.129871,40.148521 0.745952,7.445965 4.415317,23.798175 5.569637,29.890925 1.46986,-0.0145 1.18472,0.003 1.51937,0.004 0.9877,-5.95078 4.66548,-23.60176 5.49691,-29.332501 1.62352,-11.190229 1.82269,-21.286895 1.98277,-40.711015 z"
+       id="path883"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csccscc" />
+    <rect
+       style="fill:url(#linearGradient823);fill-opacity:1;stroke:none;stroke-width:0.16560297;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10"
+       width="15.646415"
+       height="24.946428"
+       x="97.593689"
+       y="19.226112" />
+    <rect
+       style="fill:url(#linearGradient899);fill-opacity:1;stroke:none;stroke-width:0.11885971;stroke-miterlimit:4;stroke-dasharray:none"
+       id="rect10-6"
+       width="16.782684"
+       height="11.981048"
+       x="97.025551"
+       y="43.416588" />
+  </g>
+</svg>

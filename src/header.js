@@ -52,7 +52,14 @@ export class Header extends jst.Component {
       },
       navItem$hover$c: {
         color: '#3333dd'
-      }
+      },
+      demoLink$hover$c: {
+        color: '#3333dd'
+      },
+      demoLink$c: {
+        textDecoration: 'none',
+        color: '#000',
+      },
     };
   }
 
@@ -68,6 +75,7 @@ export class Header extends jst.Component {
         jst.$div({cn: '-navItem', events: {click: e => this.navigate('tutorials')}}, "Tutorials"),
         jst.$div({cn: '-navItem', events: {click: e => this.navigate('support')}},   "Support"),
         jst.$div({cn: '-navItem', events: {click: e => this.navigate('faq')}},       "FAQ"),
+        jst.$div({cn: '-navItem'}, jst.$a({cn: '-demoLink', href: 'hidden-artist/index.html'}, "Demo")),
         jst.$div({cn: '-navItem', events: {click: e => this.navigate('about')}},     "About"),
       )
     );
