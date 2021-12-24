@@ -8,16 +8,13 @@ const page = `
 
 ## What is this thing and why would I use it?
 
-Hidden Artist is a cross between a coloring app and a painting app. You select a photo
-to paint and Hidden Artist will use that photo to put the appropriate colors onto 
-your brush at that location of the painting.
+Hidden Artist is a cross between a puzzle game, a coloring app and a painting app. You choose a
+painting to paint based only on a name and then you start painting. As you paint, your brush
+will be given the appropriate color for that location on the painting. 
 
 In some ways it is the simplest painting app out there, but there is hidden complexity and 
 skill needed to achieve paintings of high quality. How you paint will let you vary your painting
 from highly photo-realistic to a rougher more typical oil painting.
-
-Make sure you try the puzzle photos or add a new photo with no outline hints. Painting a picture
-with no help is where the app really shines.
 
 ## Mental Health Benefits of Art and Coloring
 
@@ -52,3 +49,4 @@ export class Home extends Page {
     this.page = page;
   }
 }
+
